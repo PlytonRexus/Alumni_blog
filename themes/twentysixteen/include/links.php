@@ -1,0 +1,54 @@
+<?php require_once(dirname($_SERVER['DOCUMENT_ROOT']).'/config/configPATH.php') ?>
+
+<?php
+  $home = PUBLIC_URI . "index.php";
+  $collaborations_mou = INFORMATION_URI . "collaborations.php";
+  $iitism_students = INFORMATION_URI . "iitism-students.php";
+  $iitism_students_programs = INFORMATION_URI . "iitism-students-programs.php";
+  $iitism_students_opportunities = INFORMATION_URI . "iitism-students-opportunities.php";
+  $international_students = INFORMATION_URI . "international-students.php";
+  $is_programs = INFORMATION_URI . "is-programs.php";
+  $is_sep_guidelines = "https://docs.google.com/document/d/1dEio-uy0zkph2T7PRCCHcTRyuYiD8DYnQRBLq563_oY/export?format=pdf";
+  $is_intern_guidelines = "https://docs.google.com/document/d/1fXnlag9bZPdAHWiOkNhUYteUZ8JxZwjzQF85U1EMF88/export?format=pdf";
+  $is_full_guidelines = "https://docs.google.com/document/d/1fHdBlRxKL0StmGpI-Oug6f4kYPsAI6z2SHti5oJUwGw/export?format=pdf";
+  $is_funding = INFORMATION_URI . "is-funding.php";
+  $is_campus_facilities = INFORMATION_URI . "is-campus-facilities.php";
+  $is_hostel_facilities = INFORMATION_URI . "is-hostel-facilities.php";
+  $is_campus_life = "https://www.iitism.ac.in/campuslife/campus.php";
+  $is_visa = INFORMATION_URI . "is-visa.php";
+  $is_reach_iitism = INFORMATION_URI . "is-reach-iitism.php";
+  $is_existing_students = INFORMATION_URI . "is-existing-students.php";
+  $faculty = INFORMATION_URI . "faculty.php";
+  $events_conferences = INFORMATION_URI . "events-conferences.php";
+  $events_international_visits = INFORMATION_URI . "events-international-visits.php";
+  $events_upcoming_events = INFORMATION_URI . "coming-soon.php";
+  $diaries_iitism = INFORMATION_URI . "diaries-iitism.php";
+  $diaries_international = INFORMATION_URI . "diaries-international.php";
+  $ir_team = INFORMATION_URI . "ir-team.php";
+  $collaborate = INFORMATION_URI . "collaborate.php";
+  $register = INFORMATION_URI . "register.php";
+  $login = INFORMATION_URI . "login.php";
+  $news = INFORMATION_URI . "news.php";
+  $faq = INFORMATION_URI . "faq.php";
+  $forgot_password = INFORMATION_URI . "forgot-password.php";
+  $facebook = "https://www.facebook.com/IITISMDHNB/";
+  $linkedin = "https://www.linkedin.com/school/iitism";
+  $twitter = "https://twitter.com/IITISM_DHANBAD";
+  $instagram = "https://www.instagram.com/iitism_dhn/";
+  $coming_soon = INFORMATION_URI . "coming-soon.php";
+  $iitism_home = "https://www.iitism.ac.in";
+  $forms = INFORMATION_URI . "student-forms.php";
+  $ir_manual = "https://docs.google.com/document/d/1vtrhXxIoJua8tyhafBHg5X4OfGTmrXQKtnPAiNOwOXU/export?format=pdf";
+  $form_iitism_ifp = "https://drive.google.com/file/d/1X8JriTqhUr-7zj7TbuqyIi9H1v6xK0Lk/view?usp=sharing";
+  $form_iitism_sep = "https://drive.google.com/file/d/1b6WA-i0DkY8L7ewa4_7NXpS30gtHS65x/view?usp=sharing";
+  $form_undertaking_student = "https://drive.google.com/file/d/1gEo3hGAinD-9aw760uxE3gwLdB-L_WC0/view?usp=sharing";
+  $form_undertaking_parents = "https://drive.google.com/file/d/1ynuTvUP6qNu49sm5_7CbBTAV3N3LkLak/view?usp=sharing";
+  $form_int_ug = "https://drive.google.com/file/d/1lBHJTu0QtZGT6IegN7Asz2hDoAWn9-gQ/view?usp=sharing";
+  $form_int_pg = "https://drive.google.com/file/d/1eDcDeLxa0BP8_fB1AeDoudxjSbRUEhYr/view?usp=sharing";
+  $form_int_sep = "https://drive.google.com/file/d/1neMTmaJtO-UfirhWw5rz6s_cUBl3oYiw/view?usp=sharing";
+  $form_int_ifp = "https://drive.google.com/file/d/1Ej4bXBmIi776Cp9X59iKHUQ6qWyArxxj/view?usp=sharing";
+  $form_medical = "https://drive.google.com/file/d/1OfzgRrjYntqHrHzBwgpVDqMBCAj9Bp40/view?usp=sharing";
+  $form_joining_ifp = "https://drive.google.com/file/d/13RpfuWraJGiY9-bYwOMuFOTJwPNLut1f/view?usp=sharing";
+  $form_joining = "https://drive.google.com/file/d/1WgCAPfBzPegkWKtYIdRo8hQCu69R6WFM/view?usp=sharing";
+  $form_annexure = "https://drive.google.com/file/d/1P5OJ-DelelVbtJ8bGnq2087SSjtR8yfr/view?usp=sharing";
+?>
